@@ -1,7 +1,7 @@
 # ocr_api_server
 使用ddddocr的最简api搭建项目，支持docker
 
-**建议python版本3.7-3.9 64位**
+**建议python版本3.7-3.10 64位**
 
 再有不好好看文档的我就不管了啊！！！
 
